@@ -1,0 +1,15 @@
+http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
+https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/
+https://github.com/spmallick/learnopencv/tree/master/FacialLandmarkDetection
+
+
+uic
+moc
+
+uic mainwindow.ui  > ui_mainwindow.h
+
+
+https://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
+https://www.learnopencv.com/face-morph-using-opencv-cpp-python/
+https://www.learnopencv.com/support-vector-machines-svm/
+https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/
